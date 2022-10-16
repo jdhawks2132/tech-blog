@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 :root {
-	--primary: #eae2b7;
-	--secondary: #fcbf49;
-	--tertiary: #f77f00;
-	--light-dark: #004164;
-	--dark: #003049;
+	--primary: #fefae0;
+	--secondary: #dda15e;
+	--tertiary: #bc6c25;
+	--light-dark: #606c38;
+	--dark: #283618;
 	--border-radius: 0.3rem;
 }
 
