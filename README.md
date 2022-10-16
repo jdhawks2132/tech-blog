@@ -1,3 +1,7 @@
+![Preview](public/images/Blog%20Preview.png)
+
+# Hawks Tech Blog
+
 ## User Story
 
 ## Acceptance Criteria
